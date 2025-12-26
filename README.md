@@ -32,6 +32,7 @@ Dự án này tập trung phân tích dữ liệu thời tiết tại Việt Nam
 │   └── 03_Meaningful_Questions.ipynb
 │
 └── README.md
+```
 
 # Methodology & Pipeline
 
@@ -131,3 +132,4 @@ Dự án tích hợp **Open-Meteo API** để kiểm chứng mô hình với d�
 
 - **Radar**  
   Dự báo mưa cực ngắn hạn (Nowcasting)
+
